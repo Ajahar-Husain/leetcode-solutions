@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0001-two-sum) |
+| [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
