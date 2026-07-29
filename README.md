@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0565-array-nesting](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
