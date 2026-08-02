@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
