@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
