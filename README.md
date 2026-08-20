@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0565-array-nesting](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Newton's Method
 |  |
 | ------- |
