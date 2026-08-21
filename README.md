@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -66,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
