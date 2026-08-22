@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
