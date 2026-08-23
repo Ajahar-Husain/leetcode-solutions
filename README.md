@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
+| [3692-majority-frequency-characters](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0067-add-binary) |
+| [3692-majority-frequency-characters](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [3692-majority-frequency-characters](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
