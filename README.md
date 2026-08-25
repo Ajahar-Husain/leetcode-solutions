@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0062-unique-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
