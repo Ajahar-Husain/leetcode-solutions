@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
 | [3692-majority-frequency-characters](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3692-majority-frequency-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
