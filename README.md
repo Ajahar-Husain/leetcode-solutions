@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ajahar-Husain/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
